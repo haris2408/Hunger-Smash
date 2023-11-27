@@ -1,0 +1,25 @@
+
+.leftside, .rightside{
+  height: 100vh;
+  width: 100%;
+
+}
+
+.leftside{
+  background:red;
+}
+
+.rightside{
+  background:blue;
+}
+/* HEADER section ========================== */
+
+.header
+{  
+  background:#5c755e; 
+  height:55px; 
+  width: 964px; 
+  border: solid 2px #000; 
+  color:white;
+}
+
